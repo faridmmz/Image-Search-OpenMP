@@ -1,7 +1,13 @@
-# Multi-Core Programming Project README
-Welcome to this Parallel programming project done by Faridreza Momtazzandi, Mahya Ehsanimehr and Ali Mojahed. The project was completed as part of a multi-core programming course. Thank you for exploring our Parallel Programming project!
+# Parallel Image Search using OpenMP
+
 ![Photo by <a href="https://unsplash.com/@brostvarta?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Francesco Vantini</a> on <a href="https://unsplash.com/photos/ZavLsrP4CDI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
    ](https://github.com/faridmmz/Image-Search-OPenMP/blob/main/README_image.jpg "Photo by Francesco Vantini on Unsplash")
+
+## Contributors
+
+- Faridreza Momtazzandi
+- Mahya Ehsanimehr
+- Ali Mojahed
 
 ## Table of Contents
 
