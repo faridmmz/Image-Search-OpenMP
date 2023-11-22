@@ -50,5 +50,6 @@ To run the compiled program:
 ```
 Make sure to have the required OpenCV library installed.
 
+
 ## Conclusion
 The Multi-Core Programming project demonstrates the application of parallel programming concepts to image processing and similarity computation. The team successfully implemented parallelization using OpenMP to achieve faster execution times when finding similar images within a dataset. The documentation and code structure provide a comprehensive overview of the project's objectives, methodologies, and outcomes.
